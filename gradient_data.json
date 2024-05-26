@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Sunset",
+    "start_color": "#FF5F6D",
+    "end_color": "#FFC371"
+  },
+  {
+    "name": "Peach",
+    "start_color": "#ED4264",
+    "end_color": "#FFEDBC"
+  },
+  {
+    "name": "Purple Love",
+    "start_color": "#CC2B5E",
+    "end_color": "#753A88"
+  },
+  {
+    "name": "Piglet",
+    "start_color": "#EE9CA7",
+    "end_color": "#FFDDE1"
+  },
+  {
+    "name": "Mauve",
+    "start_color": "#42275A",
+    "end_color": "#734B6D"
+  },
+  {
+    "name": "Love Couple",
+    "start_color": "#3A1C71",
+    "end_color": "#D76D77"
+  },
+  {
+    "name": "Azure Pop",
+    "start_color": "#EF32D9",
+    "end_color": "#89FFFD"
+  },
+  {
+    "name": "Flare",
+    "start_color": "#F12711",
+    "end_color": "#F5AF19"
+  },
+  {
+    "name": "Witching Hour",
+    "start_color": "#C31432",
+    "end_color": "#240B36"
+  },
+  {
+    "name": "Cherry",
+    "start_color": "#EB3349",
+    "end_color": "#F45C43"
+  },
+  {
+    "name": "Pink Flare",
+    "start_color": "#F79D00",
+    "end_color": "#64F38C"
+  },
+  {
+    "name": "Grapevine",
+    "start_color": "#00C3FF",
+    "end_color": "#FFFF1C"
+  },
+  {
+    "name": "Sunny Days",
+    "start_color": "#E96443",
+    "end_color": "#904E95"
+  },
+  {
+    "name": "Misty Meadow",
+    "start_color": "#215F00",
+    "end_color": "#E4E4D9"
+  },
+  {
+    "name": "Frost",
+    "start_color": "#000428",
+    "end_color": "#004E92"
+  },
+  {
+    "name": "Night Sky",
+    "start_color": "#232526",
+    "end_color": "#414345"
+  },
+  {
+    "name": "Sea Waves",
+    "start_color": "#396AFC",
+    "end_color": "#2948FF"
+  },
+  {
+    "name": "Summer Breeze",
+    "start_color": "#56CCF2",
+    "end_color": "#2F80ED"
+  },
+  {
+    "name": "Aqua Splash",
+    "start_color": "#13547A",
+    "end_color": "#80D0C7"
+  },
+  {
+    "name": "Paradise",
+    "start_color": "#F3E7E9",
+    "end_color": "#E3EEFF"
+  },
+  {
+    "name": "Purple Night",
+    "start_color": "#000428",
+    "end_color": "#004E92"
+  },
+  {
+    "name": "Blush",
+    "start_color": "#B24592",
+    "end_color": "#F15F79"
+  },
+  {
+    "name": "Cosmic Fusion",
+    "start_color": "#FF6B6B",
+    "end_color": "#556270"
+  },
+  {
+    "name": "Shady Water",
+    "start_color": "#74EBD5",
+    "end_color": "#ACB6E5"
+  },
+  {
+    "name": "Night Party",
+    "start_color": "#025E73",
+    "end_color": "#027368"
+  },
+  {
+    "name": "Lavender",
+    "start_color": "#614385",
+    "end_color": "#516395"
+  },
+  {
+    "name": "Moss",
+    "start_color": "#00C9FF",
+    "end_color": "#92FE9D"
+  },
+  {
+    "name": "Peachy",
+    "start_color": "#ED4264",
+    "end_color": "#FFEDBC"
+  },
+  {
+    "name": "Purple Skies",
+    "start_color": "#9D50BB",
+    "end_color": "#6E48AA"
+  },
+  {
+    "name": "Horizon",
+    "start_color": "#003973",
+    "end_color": "#E5E5BE"
+  },
+  {
+    "name": "Timber",
+    "start_color": "#FC00FF",
+    "end_color": "#00DBDE"
+  },
+  {
+    "name": "Between Night and Day",
+    "start_color": "#2C3E50",
+    "end_color": "#FD746C"
+  },
+  {
+    "name": "Deep Sea",
+    "start_color": "#4CA1AF",
+    "end_color": "#C4E0E5"
+  },
+  {
+    "name": "Green Beach",
+    "start_color": "#02AAB0",
+    "end_color": "#00CDAC"
+  },
+  {
+    "name": "Sunset Beach",
+    "start_color": "#FF512F",
+    "end_color": "#F09819"
+  },
+  {
+    "name": "Blue Skies",
+    "start_color": "#56CCF2",
+    "end_color": "#2F80ED"
+  },
+  {
+    "name": "Vanilla",
+    "start_color": "#F2C94C",
+    "end_color": "#F2994A"
+  },
+  {
+    "name": "Peony",
+    "start_color": "#FFC371",
+    "end_color": "#FF5F6D"
+  },
+  {
+    "name": "Marble Wall",
+    "start_color": "#BDC3C7",
+    "end_color": "#2C3E50"
+  },
+  {
+    "name": "Rose Water",
+    "start_color": "#E55D87",
+    "end_color": "#5FC3E4"
+  },
+  {
+    "name": "Cherry Blossom",
+    "start_color": "#FFA69E",
+    "end_color": "#861657"
+  },
+  {
+    "name": "Frosted Sunshine",
+    "start_color": "#D38312",
+    "end_color": "#A83279"
+  },
+  {
+    "name": "Cold Flame",
+    "start_color": "#525252",
+    "end_color": "#3D72B4"
+  },
+  {
+    "name": "Perfect White",
+    "start_color": "#EDE574",
+    "end_color": "#E1F5C4"
+  },
+  {
+    "name": "Emerald Water",
+    "start_color": "#348F50",
+    "end_color": "#56B4D3"
+  },
+  {
+    "name": "Purple Sunset",
+    "start_color": "#654EA3",
+    "end_color": "#EAAFC8"
+  },
+  {
+    "name": "Bright Sun",
+    "start_color": "#F09819",
+    "end_color": "#EDDE5D"
+  },
+  {
+    "name": "Deep Sea",
+    "start_color": "#283E51",
+    "end_color": "#4B79A1"
+  },
+  {
+    "name": "Red Sun",
+    "start_color": "#FF4E50",
+    "end_color": "#F9D423"
+  },
+  {
+    "name": "Sweet Morning",
+    "start_color": "#FF5F6D",
+    "end_color": "#FFC371"
+  },
+  {
+    "name": "Mountain Dew",
+    "start_color": "#68A8AD",
+    "end_color": "#57C0B4"
+  },
+  {
+    "name": "Coral Reef",
+    "start_color": "#8E2DE2",
+    "end_color": "#4A00E0"
+  },
+  {
+    "name": "Bright Gray",
+    "start_color": "#E0EAFC",
+    "end_color": "#CFDEF3"
+  },
+  {
+    "name": "Rainy Ashville",
+    "start_color": "#667DB6",
+    "end_color": "#0082C8"
+  },
+  {
+    "name": "Frozen Berry",
+    "start_color": "#E8198B",
+    "end_color": "#C7EAF3"
+  },
+  {
+    "name": "Frosted Space",
+    "start_color": "#1A2980",
+    "end_color": "#26D0CE"
+  },
+  {
+    "name": "Lime",
+    "start_color": "#C1DF1F",
+    "end_color": "#9EDE73"
+  },
+  {
+    "name": "Blue Water",
+    "start_color": "#43C6AC",
+    "end_color": "#F8FFAE"
+  },
+  {
+    "name": "Deep Blue",
+    "start_color": "#2E3192",
+    "end_color": "#1BFFFF"
+  },
+  {
+    "name": "Sea Blue",
+    "start_color": "#2BC0E4",
+    "end_color": "#EAECC6"
+  },
+  {
+    "name": "Dark Ocean",
+    "start_color": "#373B44",
+    "end_color": "#4286F4"
+  },
+  {
+    "name": "Grey Morning",
+    "start_color": "#DBDBDB",
+    "end_color": "#EAEAEA"
+  },
+  {
+    "name": "Crisp Peach",
+    "start_color": "#FFB6C1",
+    "end_color": "#FFDDE1"
+  },
+  {
+    "name": "Neon Light",
+    "start_color": "#B721FF",
+    "end_color": "#21D4FD"
+  },
+  {
+    "name": "Royal Sky",
+    "start_color": "#1E3C72",
+    "end_color": "#2A5298"
+  },
+  {
+    "name": "Shiny Sky",
+    "start_color": "#8E9EAB",
+    "end_color": "#EEF2F3"
+  },
+  {
+    "name": "Clear Sky",
+    "start_color": "#005C97",
+    "end_color": "#363795"
+  },
+  {
+    "name": "Bright Nature",
+    "start_color": "#00C6FF",
+    "end_color": "#0072FF"
+  },
+  {
+    "name": "Morning Light",
+    "start_color": "#FF5F6D",
+    "end_color": "#FFC371"
+  },
+  {
+    "name": "Soft Orange",
+    "start_color": "#FFC371",
+    "end_color": "#FF5F6D"
+  },
+  {
+    "name": "Pink Lemonade",
+    "start_color": "#FF9A8B",
+    "end_color": "#FF6F61"
+  },
+  {
+    "name": "Aqua Blue",
+    "start_color": "#00416A",
+    "end_color": "#E4E5E6"
+  },
+  {
+    "name": "Rainbow",
+    "start_color": "#5C258D",
+    "end_color": "#4389A2"
+  },
+  {
+    "name": "Coral",
+    "start_color": "#FF9966",
+    "end_color": "#FF5E62"
+  },
+  {
+    "name": "Desert",
+    "start_color": "#3E5151",
+    "end_color": "#DECBA4"
+  },
+  {
+    "name": "Skyline",
+    "start_color": "#1488CC",
+    "end_color": "#2B32B2"
+  },
+  {
+    "name": "Cold Evening",
+    "start_color": "#0C3483",
+    "end_color": "#A2B6DF"
+  },
+  {
+    "name": "Starry Night",
+    "start_color": "#2A2D3E",
+    "end_color": "#FECB02"
+  },
+  {
+    "name": "Blue Moon",
+    "start_color": "#1C92D2",
+    "end_color": "#F2FCFE"
+  },
+  {
+    "name": "Purple Haze",
+    "start_color": "#8E2DE2",
+    "end_color": "#4A00E0"
+  },
+  {
+    "name": "Bali",
+    "start_color": "#3E5151",
+    "end_color": "#DECBA4"
+  },
+  {
+    "name": "Sunny Sky",
+    "start_color": "#2980B9",
+    "end_color": "#6DD5FA"
+  },
+  {
+    "name": "Citrus Peel",
+    "start_color": "#FDC830",
+    "end_color": "#F37335"
+  },
+  {
+    "name": "Sea Mist",
+    "start_color": "#2E8B57",
+    "end_color": "#3CB371"
+  },
+  {
+    "name": "Blue Slate",
+    "start_color": "#4A90E2",
+    "end_color": "#9013FE"
+  },
+  {
+    "name": "Tropical Dream",
+    "start_color": "#00C9FF",
+    "end_color": "#92FE9D"
+  },
+  {
+    "name": "Serene Sunset",
+    "start_color": "#D38312",
+    "end_color": "#A83279"
+  },
+  {
+    "name": "Tropical Sky",
+    "start_color": "#E55D87",
+    "end_color": "#5FC3E4"
+  },
+  {
+    "name": "Deep Ocean",
+    "start_color": "#2C3E50",
+    "end_color": "#4CA1AF"
+  },
+  {
+    "name": "Cherry Cola",
+    "start_color": "#D31027",
+    "end_color": "#EA384D"
+  }
+]
